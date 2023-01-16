@@ -1,0 +1,1406 @@
+[
+    {
+        "title": "Asus VivoBook X441NA-GA190",
+        "price_homepage": "$295.99",
+        "description": "Asus VivoBook X441NA-GA190 Chocolate Black, 14\", Celeron N3450, 4GB, 128GB SSD, Endless OS, ENG kbd",
+        "ratings": "14 reviews   ",
+        "price_with_hdd": {
+            "hdd128": "$295.99",
+            "hdd256": "$315.99",
+            "hdd512": "$335.99",
+            "hdd1024": "$355.99"
+        }
+    },
+    {
+        "title": "Prestigio SmartBook 133S Dark Grey",
+        "price_homepage": "$299.00",
+        "description": "Prestigio SmartBook 133S Dark Grey, 13.3\" FHD IPS, Celeron N3350 1.1GHz, 4GB, 32GB, Windows 10 Pro + Office 365 1 gadam",
+        "ratings": "8 reviews  ",
+        "price_with_hdd": {
+            "hdd128": "$299",
+            "hdd256": "$319",
+            "hdd512": "$339",
+            "hdd1024": "$359"
+        }
+    },
+    {
+        "title": "Prestigio SmartBook 133S Gold",
+        "price_homepage": "$299.00",
+        "description": "Prestigio SmartBook 133S Gold, 13.3\" FHD IPS, Celeron N3350 1.1GHz, 4GB, 32GB, Windows 10 Pro + Office 365 1 gadam",
+        "ratings": "12 reviews    ",
+        "price_with_hdd": {
+            "hdd128": "$299.00",
+            "hdd256": "$299.00",
+            "hdd512": "$299.00",
+            "hdd1024": "$299.00"
+        }
+    },
+    {
+        "title": "Aspire E1-510",
+        "price_homepage": "$306.99",
+        "description": "15.6\", Pentium N3520 2.16GHz, 4GB, 500GB, Linux",
+        "ratings": "2 reviews   ",
+        "price_with_hdd": {
+            "hdd128": "$306.99",
+            "hdd256": "$326.99",
+            "hdd512": "$346.99",
+            "hdd1024": "$366.99"
+        }
+    },
+    {
+        "title": "Lenovo V110-15IAP",
+        "price_homepage": "$321.94",
+        "description": "Lenovo V110-15IAP, 15.6\" HD, Celeron N3350 1.1GHz, 4GB, 128GB SSD, Windows 10 Home",
+        "ratings": "5 reviews   ",
+        "price_with_hdd": {
+            "hdd128": "$321.94",
+            "hdd256": "$321.94",
+            "hdd512": "$321.94",
+            "hdd1024": "$321.94"
+        }
+    },
+    {
+        "title": "Lenovo V110-15IAP",
+        "price_homepage": "$356.49",
+        "description": "Asus VivoBook 15 X540NA-GQ008T Chocolate Black, 15.6\" HD, Pentium N4200, 4GB, 500GB, Windows 10 Home, En kbd",
+        "ratings": "6 reviews  ",
+        "price_with_hdd": {
+            "hdd128": "$356.49",
+            "hdd256": "$376.49",
+            "hdd512": "$396.49",
+            "hdd1024": "$416.49"
+        }
+    },
+    {
+        "title": "Hewlett Packard 250 G6 Dark Ash Silver",
+        "price_homepage": "$364.46",
+        "description": "Hewlett Packard 250 G6 Dark Ash Silver, 15.6\" HD, Celeron N3060 1.6GHz, 4GB, 128GB SSD, DOS",
+        "ratings": "12 reviews ",
+        "price_with_hdd": {
+            "hdd128": "$364.46",
+            "hdd256": "$384.46",
+            "hdd512": "$404.46",
+            "hdd1024": "$424.46"
+        }
+    },
+    {
+        "title": "Acer Aspire 3 A315-31 Black",
+        "price_homepage": "$372.70",
+        "description": "Acer Aspire 3 A315-31 Black, 15.6\" HD, Celeron N3350 1.1GHz, 4GB, 128GB SSD, Windows 10 Home",
+        "ratings": "2 reviews  ",
+        "price_with_hdd": {
+            "hdd128": "$372.70",
+            "hdd256": "$372.70",
+            "hdd512": "$372.70",
+            "hdd1024": "$372.70"
+        }
+    },
+    {
+        "title": "Acer Aspire A315-31-C33J",
+        "price_homepage": "$379.94",
+        "description": "Acer Aspire A315-31-C33J Black 15.6\", HD, Celeron N3350, 4GB DDR3L, 128GB, Windows 10 Home, ENG",
+        "ratings": "0 reviews  ",
+        "price_with_hdd": {
+            "hdd128": "$379.94",
+            "hdd256": "$399.94",
+            "hdd512": "$419.94",
+            "hdd1024": "$439.94"
+        }
+    },
+    {
+        "title": "Acer Aspire ES1-572 Black",
+        "price_homepage": "$379.95",
+        "description": "Acer Aspire ES1-572 Black, 15.6\" HD, Core i3-6006U, 4GB, 128GB SSD, Linux",
+        "ratings": "9 reviews    ",
+        "price_with_hdd": {
+            "hdd128": "$379.95",
+            "hdd256": "$379.95",
+            "hdd512": "$379.95",
+            "hdd1024": "$379.95"
+        }
+    },
+    {
+        "title": "Acer Aspire 3 A315-31 Black",
+        "price_homepage": "$391.48",
+        "description": "Acer Aspire 3 A315-31 Black, 15.6\" HD, Pentium N4200 1.1GHz, 4GB, 128GB SSD, Windows 10 Home",
+        "ratings": "10 reviews    ",
+        "price_with_hdd": {
+            "hdd128": "$391.48",
+            "hdd256": "$391.48",
+            "hdd512": "$391.48",
+            "hdd1024": "$391.48"
+        }
+    },
+    {
+        "title": "Acer Aspire 3 A315-21",
+        "price_homepage": "$393.88",
+        "description": "Acer Aspire 3 A315-21, 15.6\", AMD A4-9120. 4GB. 128GB SSD, Linux",
+        "ratings": "9 reviews   ",
+        "price_with_hdd": {
+            "hdd128": "$393.88",
+            "hdd256": "$393.88",
+            "hdd512": "$393.88",
+            "hdd1024": "$393.88"
+        }
+    },
+    {
+        "title": "Asus VivoBook Max",
+        "price_homepage": "$399.00",
+        "description": "Asus VivoBook Max X541NA-GQ041 Black Chocolate, 15.6\" HD, Pentium N4200 1.1GHz, 4GB, 500GB, Windows 10 Home",
+        "ratings": "4 reviews ",
+        "price_with_hdd": {
+            "hdd128": "$399.00",
+            "hdd256": "$399.00",
+            "hdd512": "$399.00",
+            "hdd1024": "$399.00"
+        }
+    },
+    {
+        "title": "Asus VivoBook E502NA-GO022T Dark Blue",
+        "price_homepage": "$399.99",
+        "description": "Asus VivoBook E502NA-GO022T Dark Blue, 15.6\" HD, Pentium N4200 1.1GHz, 4GB, 128GB SSD, Windows 10 Home, En/Ru kbd",
+        "ratings": "3 reviews    ",
+        "price_with_hdd": {
+            "hdd128": "$399.99",
+            "hdd256": "$399.99",
+            "hdd512": "$399.99",
+            "hdd1024": "$399.99"
+        }
+    },
+    {
+        "title": "Lenovo ThinkPad E31-80",
+        "price_homepage": "$404.23",
+        "description": "Lenovo ThinkPad E31-80, 13.3\" HD, Celeron 3855U 1.6GHz, 4GB, 128GB SSD, Windows 10 Home",
+        "ratings": "12 reviews ",
+        "price_with_hdd": {
+            "hdd128": "$404.23",
+            "hdd256": "$424.23",
+            "hdd512": "$444.23",
+            "hdd1024": "$464.23"
+        }
+    },
+    {
+        "title": "Acer Aspire 3 A315-31 Black",
+        "price_homepage": "$408.98",
+        "description": "Acer Aspire 3 A315-31 Black, 15.6\" HD, Pentium N4200 1.1GHz, 4GB, 128GB SSD, Windows 10 Home",
+        "ratings": "10 reviews    ",
+        "price_with_hdd": {
+            "hdd128": "$408.98",
+            "hdd256": "$408.98",
+            "hdd512": "$408.98",
+            "hdd1024": "$408.98"
+        }
+    },
+    {
+        "title": "Lenovo V110-15ISK",
+        "price_homepage": "$409.63",
+        "description": "Lenovo V110-15ISK, 15.6\" HD, Core i3-6006U, 8GB, 128GB SSD, Windows 10 Home",
+        "ratings": "9 reviews   ",
+        "price_with_hdd": {
+            "hdd128": "$409.63",
+            "hdd256": "$429.63",
+            "hdd512": "$449.63",
+            "hdd1024": "$469.63"
+        }
+    },
+    {
+        "title": "Acer Aspire ES1-732 Black",
+        "price_homepage": "$410.46",
+        "description": "Acer Aspire ES1-732 Black, 17.3\" HD+, Celeron, N3350, 4GB, 1TB, Windows 10 Home",
+        "ratings": "14 reviews    ",
+        "price_with_hdd": {
+            "hdd128": "$410.46",
+            "hdd256": "$430.46",
+            "hdd512": "$450.46",
+            "hdd1024": "$470.46"
+        }
+    },
+    {
+        "title": "Asus VivoBook 15 X540NA-GQ026T",
+        "price_homepage": "$410.66",
+        "description": "Asus VivoBook 15 X540NA-GQ026T Chocolate Black, 15.6\" HD, Pentium N4200, 4GB, 128GB SSD, Windows 10 Home, En/Ru kbd",
+        "ratings": "4 reviews    ",
+        "price_with_hdd": {
+            "hdd128": "$410.66",
+            "hdd256": "$430.66",
+            "hdd512": "$450.66",
+            "hdd1024": "$470.66"
+        }
+    },
+    {
+        "title": "Packard 255 G2",
+        "price_homepage": "$416.99",
+        "description": "15.6\", AMD E2-3800 1.3GHz, 4GB, 500GB, Windows 8.1",
+        "ratings": "2 reviews  ",
+        "price_with_hdd": {
+            "hdd128": "$416.99",
+            "hdd256": "$416.99",
+            "hdd512": "$416.99",
+            "hdd1024": "$416.99"
+        }
+    },
+    {
+        "title": "Asus EeeBook R416NA-FA014T",
+        "price_homepage": "$433.30",
+        "description": "Asus EeeBook R416NA-FA014T, 14\" FHD, Pentium N4200, 4GB, 128GB eMMC, Windows 10 Home, Eng kbd",
+        "ratings": "1 reviews ",
+        "price_with_hdd": {
+            "hdd128": "$433.30",
+            "hdd256": "$433.30",
+            "hdd512": "$433.30",
+            "hdd1024": "$433.30"
+        }
+    },
+    {
+        "title": "Acer Aspire 3 A315-51",
+        "price_homepage": "$436.29",
+        "description": "Acer Aspire 3 A315-51, 15.6\" HD, Core i3-6006U, 4GB, 1TB, Windows 10 Home",
+        "ratings": "1 reviews ",
+        "price_with_hdd": {
+            "hdd128": "$436.29",
+            "hdd256": "$456.29",
+            "hdd512": "$476.29",
+            "hdd1024": "$496.29"
+        }
+    },
+    {
+        "title": "Acer Aspire ES1-572 Black",
+        "price_homepage": "$436.29",
+        "description": "Acer Aspire ES1-572 Black, 15.6\" HD, Core i3-6006U, 4GB, 500GB, Windows 10 Home",
+        "ratings": "2 reviews ",
+        "price_with_hdd": {
+            "hdd128": "$436.29",
+            "hdd256": "$456.29",
+            "hdd512": "$476.29",
+            "hdd1024": "$496.29"
+        }
+    },
+    {
+        "title": "Acer Extensa 15 (2540) Black",
+        "price_homepage": "$439.73",
+        "description": "Acer Extensa 15 (2540) Black, 15.6\" HD, Core i5-7200U, 4GB, 500GB, Linux",
+        "ratings": "6 reviews    ",
+        "price_with_hdd": {
+            "hdd128": "$439.73",
+            "hdd256": "$459.73",
+            "hdd512": "$479.73",
+            "hdd1024": "$499.73"
+        }
+    },
+    {
+        "title": "Acer Aspire ES1-572 Black",
+        "price_homepage": "$454.62",
+        "description": "Acer Aspire ES1-572 Black, 15.6\" HD, Core i5-7200U, 4GB, 500GB, Linux",
+        "ratings": "9 reviews ",
+        "price_with_hdd": {
+            "hdd128": "$454.62",
+            "hdd256": "$474.62",
+            "hdd512": "$494.62",
+            "hdd1024": "$514.62"
+        }
+    },
+    {
+        "title": "Lenovo V110-15ISK",
+        "price_homepage": "$454.73",
+        "description": "Lenovo V110-15ISK, 15.6\" HD, Core i3-6006U, 4GB, 128GB SSD, Windows 10 Pro",
+        "ratings": "2 reviews  ",
+        "price_with_hdd": {
+            "hdd128": "$454.73",
+            "hdd256": "$474.73",
+            "hdd512": "$494.73",
+            "hdd1024": "$514.73"
+        }
+    },
+    {
+        "title": "Acer Aspire A315-51-33TG",
+        "price_homepage": "$457.38",
+        "description": "Acer Aspire A315-51-33TG, Black 15.6\" HD, Core i3-7100U, 4GB DDR4, 128GB SSD, Windows 10 Home, ENG",
+        "ratings": "9 reviews   ",
+        "price_with_hdd": {
+            "hdd128": "$457.38",
+            "hdd256": "$477.38",
+            "hdd512": "$497.38",
+            "hdd1024": "$517.38"
+        }
+    },
+    {
+        "title": "Lenovo V110-15IKB",
+        "price_homepage": "$465.95",
+        "description": "Lenovo V110-15IKB, 15.6\" HD, Core i5-7200U, 4GB, 500GB, DOS",
+        "ratings": "7 reviews ",
+        "price_with_hdd": {
+            "hdd128": "$465.95",
+            "hdd256": "$485.95",
+            "hdd512": "$505.95",
+            "hdd1024": "$525.95"
+        }
+    },
+    {
+        "title": "Asus VivoBook 15 X540UA-DM260 Chocolate Black",
+        "price_homepage": "$468.56",
+        "description": "Asus VivoBook 15 X540UA-DM260 Chocolate Black, 15.6\" FHD, Core i3-6006U, 4GB, 256GB SSD, Endless OS, En kbd",
+        "ratings": "1 reviews   ",
+        "price_with_hdd": {
+            "hdd128": "$468.56",
+            "hdd256": "$488.56",
+            "hdd512": "$508.56",
+            "hdd1024": "$528.56"
+        }
+    },
+    {
+        "title": "Acer Aspire ES1-572 Black",
+        "price_homepage": "$469.10",
+        "description": "Acer Aspire ES1-572 Black, 15.6\" HD, Core i3-6006U, 4GB, 128GB SSD, Windows 10 Home",
+        "ratings": "5 reviews   ",
+        "price_with_hdd": {
+            "hdd128": "$469.1",
+            "hdd256": "$489.1",
+            "hdd512": "$509.1",
+            "hdd1024": "$529.1"
+        }
+    },
+    {
+        "title": "Lenovo V510 Black",
+        "price_homepage": "$484.23",
+        "description": "Lenovo V510 Black, 14\" HD, Core i3-6006U, 4GB, 128GB SSD, Windows 10 Home",
+        "ratings": "8 reviews   ",
+        "price_with_hdd": {
+            "hdd128": "$484.23",
+            "hdd256": "$504.23",
+            "hdd512": "$524.23",
+            "hdd1024": "$544.23"
+        }
+    },
+    {
+        "title": "Acer Aspire ES1-572 Black",
+        "price_homepage": "$485.90",
+        "description": "Acer Aspire ES1-572 Black, 15.6\" HD, Core i5-7200U, 4GB, 128GB SSD, Linux",
+        "ratings": "6 reviews   ",
+        "price_with_hdd": {
+            "hdd128": "$485.9",
+            "hdd256": "$505.9",
+            "hdd512": "$525.9",
+            "hdd1024": "$545.9"
+        }
+    },
+    {
+        "title": "Lenovo V510 Black",
+        "price_homepage": "$487.80",
+        "description": "Lenovo V510 Black, 15.6\" HD, Core i3-6006U, 4GB, 128GB SSD, Windows 10 Home",
+        "ratings": "9 reviews  ",
+        "price_with_hdd": {
+            "hdd128": "$487.8",
+            "hdd256": "$507.8",
+            "hdd512": "$527.8",
+            "hdd1024": "$547.8"
+        }
+    },
+    {
+        "title": "Acer Swift 1 SF113-31 Silver",
+        "price_homepage": "$488.64",
+        "description": "Acer Swift 1 SF113-31 Silver, 13.3\" FHD, Pentium N4200, 4GB, 128GB SSD, Windows 10 Home",
+        "ratings": "4 reviews   ",
+        "price_with_hdd": {
+            "hdd128": "$488.64",
+            "hdd256": "$508.64",
+            "hdd512": "$528.64",
+            "hdd1024": "$548.64"
+        }
+    },
+    {
+        "title": "Dell Vostro 15",
+        "price_homepage": "$488.78",
+        "description": "Dell Vostro 15 (3568) Black, 15.6\" FHD, Core i5-7200U, 4GB, 128GB SSD, Radeon R5 M420 2GB, Linux",
+        "ratings": "14 reviews    ",
+        "price_with_hdd": {
+            "hdd128": "$488.78",
+            "hdd256": "$508.78",
+            "hdd512": "$528.78",
+            "hdd1024": "$548.78"
+        }
+    },
+    {
+        "title": "Acer Aspire 3 A315-51 Black",
+        "price_homepage": "$494.71",
+        "description": "Acer Aspire 3 A315-51 Black, 15.6\" FHD, Core i3-7100U, 4GB, 500GB + 128GB SSD, Windows 10 Home",
+        "ratings": "2 reviews    ",
+        "price_with_hdd": {
+            "hdd128": "$494.71",
+            "hdd256": "$514.71",
+            "hdd512": "$534.71",
+            "hdd1024": "$554.71"
+        }
+    },
+    {
+        "title": "Dell Vostro 15 (3568) Red",
+        "price_homepage": "$497.17",
+        "description": "Dell Vostro 15 (3568) Red, 15.6\" HD, Core i5-7200U, 4GB, 1TB, Radeon R5 M420 2GB, Linux",
+        "ratings": "9 reviews ",
+        "price_with_hdd": {
+            "hdd128": "$497.17",
+            "hdd256": "$517.1700000000001",
+            "hdd512": "$537.1700000000001",
+            "hdd1024": "$557.1700000000001"
+        }
+    },
+    {
+        "title": "Lenovo V510 Black",
+        "price_homepage": "$498.23",
+        "description": "Lenovo V510 Black, 15.6\" FHD, Core i3-7100U, 4GB, 128GB SSD, Windows 10 Pro",
+        "ratings": "5 reviews   ",
+        "price_with_hdd": {
+            "hdd128": "$498.23",
+            "hdd256": "$518.23",
+            "hdd512": "$538.23",
+            "hdd1024": "$558.23"
+        }
+    },
+    {
+        "title": "HP 250 G3",
+        "price_homepage": "$520.99",
+        "description": "15.6\", Core i5-4210U, 4GB, 500GB, Windows 8.1",
+        "ratings": "13 reviews  ",
+        "price_with_hdd": {
+            "hdd128": "$520.99",
+            "hdd256": "$540.99",
+            "hdd512": "$560.99",
+            "hdd1024": "$580.99"
+        }
+    },
+    {
+        "title": "Acer Spin 5",
+        "price_homepage": "$564.98",
+        "description": "Acer Spin 5 SP513-51 Black, 13.3\" FHD Touch, Core i3-7100U, 4GB, 128GB SSD, Windows 10 Home",
+        "ratings": "0 reviews  ",
+        "price_with_hdd": {
+            "hdd128": "$564.98",
+            "hdd256": "$584.98",
+            "hdd512": "$604.98",
+            "hdd1024": "$624.98"
+        }
+    },
+    {
+        "title": "HP 350 G1",
+        "price_homepage": "$577.99",
+        "description": "15.6\", Core i5-4200U, 4GB, 750GB, Radeon HD8670M 2GB, Windows",
+        "ratings": "10 reviews  ",
+        "price_with_hdd": {
+            "hdd128": "$577.99",
+            "hdd256": "$597.99",
+            "hdd512": "$617.99",
+            "hdd1024": "$637.99"
+        }
+    },
+    {
+        "title": "Aspire E1-572G",
+        "price_homepage": "$581.99",
+        "description": "15.6\", Core i5-4200U, 8GB, 1TB, Radeon R7 M265, Windows 8.1",
+        "ratings": "2 reviews ",
+        "price_with_hdd": {
+            "hdd128": "$581.99",
+            "hdd256": "$601.99",
+            "hdd512": "$621.99",
+            "hdd1024": "$641.99"
+        }
+    },
+    {
+        "title": "Pavilion",
+        "price_homepage": "$609.99",
+        "description": "15.6\", Core i5-4200U, 6GB, 750GB, Windows 8.1",
+        "ratings": "4 reviews ",
+        "price_with_hdd": {
+            "hdd128": "$609.99",
+            "hdd256": "$629.99",
+            "hdd512": "$649.99",
+            "hdd1024": "$669.99"
+        }
+    },
+    {
+        "title": "Acer Aspire A515-51-5654",
+        "price_homepage": "$679.00",
+        "description": "Acer Aspire A515-51-5654, Black, 15.6\", FHD, Core i5-8250U, 8GB DDR4, 256GB SSD, Windows 10 Home, ENG",
+        "ratings": "9 reviews  ",
+        "price_with_hdd": {
+            "hdd128": "$679",
+            "hdd256": "$699",
+            "hdd512": "$719",
+            "hdd1024": "$739"
+        }
+    },
+    {
+        "title": "Dell Inspiron 15",
+        "price_homepage": "$679.00",
+        "description": "Dell Inspiron 15 (5567) Fog Gray, 15.6\" FHD, Core i5-7200U, 8GB, 1TB, Radeon R7 M445 4GB, Linux",
+        "ratings": "7 reviews  ",
+        "price_with_hdd": {
+            "hdd128": "$679",
+            "hdd256": "$699",
+            "hdd512": "$719",
+            "hdd1024": "$739"
+        }
+    },
+    {
+        "title": "Asus VivoBook S14",
+        "price_homepage": "$729.00",
+        "description": "Asus VivoBook S14 (S406UA-BV041T) Starry Grey, 14\", Core i5-8250U, 8GB, 256GB SSD, Windows 10 Home, Eng kbd",
+        "ratings": "2 reviews ",
+        "price_with_hdd": {
+            "hdd128": "$729",
+            "hdd256": "$749",
+            "hdd512": "$769",
+            "hdd1024": "$789"
+        }
+    },
+    {
+        "title": "ProBook",
+        "price_homepage": "$739.99",
+        "description": "14\", Core i5 2.6GHz, 4GB, 500GB, Win7 Pro 64bit",
+        "ratings": "8 reviews    ",
+        "price_with_hdd": {
+            "hdd128": "$739.99",
+            "hdd256": "$759.99",
+            "hdd512": "$779.99",
+            "hdd1024": "$799.99"
+        }
+    },
+    {
+        "title": "Inspiron 15",
+        "price_homepage": "$745.99",
+        "description": "Moon Silver, 15.6\", Core i7-4510U, 8GB, 1TB, Radeon HD R7 M265 2GB,",
+        "ratings": "12 reviews   ",
+        "price_with_hdd": {
+            "hdd128": "$745.99",
+            "hdd256": "$765.99",
+            "hdd512": "$785.99",
+            "hdd1024": "$805.99"
+        }
+    },
+    {
+        "title": "Asus ROG STRIX GL553VD-DM256",
+        "price_homepage": "$799.00",
+        "description": "Asus ROG STRIX GL553VD-DM256, 15.6\" FHD, Core i5-7300HQ, 8GB, 1TB, GeForce GTX 1050 2GB, No OS",
+        "ratings": "7 reviews  ",
+        "price_with_hdd": {
+            "hdd128": "$799",
+            "hdd256": "$819",
+            "hdd512": "$839",
+            "hdd1024": "$859"
+        }
+    },
+    {
+        "title": "Acer Nitro 5 AN515-51",
+        "price_homepage": "$809.00",
+        "description": "Acer Nitro 5 AN515-51, 15.6\" FHD IPS, Core i5-7300HQ, 8GB, 1TB, GeForce GTX 1050 2GB, Windows 10 Home",
+        "ratings": "0 reviews ",
+        "price_with_hdd": {
+            "hdd128": "$809",
+            "hdd256": "$829",
+            "hdd512": "$849",
+            "hdd1024": "$869"
+        }
+    },
+    {
+        "title": "Asus ROG STRIX GL553VD-DM256",
+        "price_homepage": "$899.00",
+        "description": "Asus ROG STRIX GL553VD-DM256, 15.6\" FHD, Core i5-7300HQ, 8GB, 1TB, GeForce GTX 1050 2GB, No OS + Windows 10 Home",
+        "ratings": "7 reviews ",
+        "price_with_hdd": {
+            "hdd128": "$899",
+            "hdd256": "$919",
+            "hdd512": "$939",
+            "hdd1024": "$959"
+        }
+    },
+    {
+        "title": "Lenovo ThinkPad L570",
+        "price_homepage": "$999.00",
+        "description": "Lenovo ThinkPad L570, 15.6\" FHD, Core i7-7500U, 8GB, 256GB SSD, Windows 10 Pro",
+        "ratings": "11 reviews   ",
+        "price_with_hdd": {
+            "hdd128": "$999",
+            "hdd256": "$1019",
+            "hdd512": "$1039",
+            "hdd1024": "$1059"
+        }
+    },
+    {
+        "title": "ThinkPad Yoga",
+        "price_homepage": "$1033.99",
+        "description": "12.5\" Touch, Core i3-4010U, 4GB, 500GB + 16GB SSD Cache,",
+        "ratings": "13 reviews  ",
+        "price_with_hdd": {
+            "hdd128": "$1033.99",
+            "hdd256": "$1053.99",
+            "hdd512": "$1073.99",
+            "hdd1024": "$1093.99"
+        }
+    },
+    {
+        "title": "Lenovo ThinkPad L460",
+        "price_homepage": "$1096.02",
+        "description": "Lenovo ThinkPad L460, 14\" FHD IPS, Core i7-6600U, 8GB, 256GB SSD, Windows 10 Pro",
+        "ratings": "14 reviews    ",
+        "price_with_hdd": {
+            "hdd128": "$1096.02",
+            "hdd256": "$1116.02",
+            "hdd512": "$1136.02",
+            "hdd1024": "$1156.02"
+        }
+    },
+    {
+        "title": "Dell Inspiron 15 (7567) Black",
+        "price_homepage": "$1098.42",
+        "description": "Dell Inspiron 15 (7567) Black, 15.6\" FHD, Core i5-7300HQ, 8GB, 256GB SSD, GeForce GTX 1050 4GB, Windows 10 Home",
+        "ratings": "7 reviews ",
+        "price_with_hdd": {
+            "hdd128": "$1098.42",
+            "hdd256": "$1118.42",
+            "hdd512": "$1138.42",
+            "hdd1024": "$1158.42"
+        }
+    },
+    {
+        "title": "MSI GL72M 7RDX",
+        "price_homepage": "$1099.00",
+        "description": "MSI GL72M 7RDX, 17.3\" FHD, Core i5-7300HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1050 2GB, Windows 10 Home",
+        "ratings": "1 reviews    ",
+        "price_with_hdd": {
+            "hdd128": "$1099",
+            "hdd256": "$1119",
+            "hdd512": "$1139",
+            "hdd1024": "$1159"
+        }
+    },
+    {
+        "title": "MSI GL72M 7RDX",
+        "price_homepage": "$1099.00",
+        "description": "Asus ROG Strix GL553VD-DM535T, 15.6\" FHD, Core i7-7700HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1050 2GB, Windows 10 Home, Eng kbd",
+        "ratings": "9 reviews ",
+        "price_with_hdd": {
+            "hdd128": "$1099",
+            "hdd256": "$1119",
+            "hdd512": "$1139",
+            "hdd1024": "$1159"
+        }
+    },
+    {
+        "title": "Asus ROG Strix GL553VD-DM535T",
+        "price_homepage": "$1101.83",
+        "description": "Apple MacBook Air 13.3\", Core i5 1.8GHz, 8GB, 128GB SSD, Intel HD 4000, RUS",
+        "ratings": "4 reviews  ",
+        "price_with_hdd": {
+            "hdd128": "$1101.83",
+            "hdd256": "$1121.83",
+            "hdd512": "$1141.83",
+            "hdd1024": "$1161.83"
+        }
+    },
+    {
+        "title": "Dell Latitude 5280",
+        "price_homepage": "$1102.66",
+        "description": "Dell Latitude 5280, 12.5\" HD, Core i5-7300U, 8GB, 256GB SSD, Windows 10 Pro",
+        "ratings": "8 reviews ",
+        "price_with_hdd": {
+            "hdd128": "$1102.66",
+            "hdd256": "$1122.66",
+            "hdd512": "$1142.66",
+            "hdd1024": "$1162.66"
+        }
+    },
+    {
+        "title": "Dell Latitude 5480",
+        "price_homepage": "$1110.14",
+        "description": "Dell Latitude 5480, 14\" FHD, Core i5-7300U, 8GB, 500GB, Linux + Windows 10 Home",
+        "ratings": "4 reviews   ",
+        "price_with_hdd": {
+            "hdd128": "$1110.14",
+            "hdd256": "$1130.14",
+            "hdd512": "$1150.14",
+            "hdd1024": "$1170.14"
+        }
+    },
+    {
+        "title": "Lenovo Legion Y520-15IKBM",
+        "price_homepage": "$1112.91",
+        "description": "Lenovo Legion Y520-15IKBM, Black, 15.6\" FHD IPS, Core i5-7300HQ, 8 GB, 128GB SSD + 2 TB HDD, NVIDIA GeForce GTX 1060 6 GB, FreeDOS + Windows 10 Home",
+        "ratings": "1 reviews    ",
+        "price_with_hdd": {
+            "hdd128": "$1112.91",
+            "hdd256": "$1132.91",
+            "hdd512": "$1152.91",
+            "hdd1024": "$1172.91"
+        }
+    },
+    {
+        "title": "Toshiba Portege Z30-C-16J Grey",
+        "price_homepage": "$1114.55",
+        "description": "Toshiba Portege Z30-C-16J Grey, 13.3\" FHD, Core i5-6200U, 8GB, 256GB SSD, Windows 10 Pro",
+        "ratings": "0 reviews ",
+        "price_with_hdd": {
+            "hdd128": "$1114.55",
+            "hdd256": "$1134.55",
+            "hdd512": "$1154.55",
+            "hdd1024": "$1174.55"
+        }
+    },
+    {
+        "title": "Acer Predator Helios 300 (PH317-51)",
+        "price_homepage": "$1123.87",
+        "description": "Acer Predator Helios 300 (PH317-51), 17.3\" FHD IPS, Core i5-7300HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1050Ti 4GB, Windows 10 Home",
+        "ratings": "1 reviews  ",
+        "price_with_hdd": {
+            "hdd128": "$1123.87",
+            "hdd256": "$1143.87",
+            "hdd512": "$1163.87",
+            "hdd1024": "$1183.87"
+        }
+    },
+    {
+        "title": "Acer Aspire 7 A715-71G",
+        "price_homepage": "$1123.87",
+        "description": "Acer Aspire 7 A715-71G, 15.6\" FHD IPS, Core i7-7700HQ, 8GB, 128GB SSD + 1TB HDD, GTX 1050 Ti 4GB, Windows 10 Home",
+        "ratings": "4 reviews  ",
+        "price_with_hdd": {
+            "hdd128": "$1123.87",
+            "hdd256": "$1143.87",
+            "hdd512": "$1163.87",
+            "hdd1024": "$1183.87"
+        }
+    },
+    {
+        "title": "Dell Inspiron 17 2in1 (7779) Silver",
+        "price_homepage": "$1124.20",
+        "description": "Dell Inspiron 17 2in1 (7779) Silver, 17.3\" FHD Touch, Core i5-7200U, 12GB, 1TB, GeForce GT940MX 2GB, Windows 10 Home",
+        "ratings": "10 reviews   ",
+        "price_with_hdd": {
+            "hdd128": "$1124.2",
+            "hdd256": "$1144.2",
+            "hdd512": "$1164.2",
+            "hdd1024": "$1184.2"
+        }
+    },
+    {
+        "title": "Dell Latitude 5480",
+        "price_homepage": "$1133.82",
+        "description": "Dell Latitude 5480, 14\" FHD, Core i5-7300U, 8GB, 500GB, Windows 10 Pro",
+        "ratings": "14 reviews    ",
+        "price_with_hdd": {
+            "hdd128": "$1133.82",
+            "hdd256": "$1153.82",
+            "hdd512": "$1173.82",
+            "hdd1024": "$1193.82"
+        }
+    },
+    {
+        "title": "Lenovo Legion Y520",
+        "price_homepage": "$1133.91",
+        "description": "Lenovo Legion Y520, 15.6\" FHD, Core i7-7700HQ, 8GB, 128 GB SSD + 1TB HDD, GTX 1050 4GB, Windows 10 Home",
+        "ratings": "13 reviews ",
+        "price_with_hdd": {
+            "hdd128": "$1133.91",
+            "hdd256": "$1153.91",
+            "hdd512": "$1173.91",
+            "hdd1024": "$1193.91"
+        }
+    },
+    {
+        "title": "Asus AsusPro Advanced BU401LA-FA271G Dark Grey",
+        "price_homepage": "$1139.54",
+        "description": "Asus AsusPro Advanced BU401LA-FA271G Dark Grey, 14\", Core i5-4210U, 4GB, 128GB SSD, Win7 Pro 64bit, ENG",
+        "ratings": "7 reviews   ",
+        "price_with_hdd": {
+            "hdd128": "$1139.54",
+            "hdd256": "$1159.54",
+            "hdd512": "$1179.54",
+            "hdd1024": "$1199.54"
+        }
+    },
+    {
+        "title": "Acer Nitro 5 AN515-51",
+        "price_homepage": "$1140.62",
+        "description": "Acer Nitro 5 AN515-51, 15.6\" FHD IPS, Core i7-7700HQ, 8GB, 256GB SSD +1TB, GeForce GTX 1050 Ti 4GB, Windows 10 Home + Windows 10 Home",
+        "ratings": "14 reviews   ",
+        "price_with_hdd": {
+            "hdd128": "$1140.62",
+            "hdd256": "$1160.62",
+            "hdd512": "$1180.62",
+            "hdd1024": "$1200.62"
+        }
+    },
+    {
+        "title": "Dell Latitude 5480",
+        "price_homepage": "$1143.40",
+        "description": "Dell Latitude 5480, 14\" FHD, Core i5-7440HQ, 8GB, 256GB SSD, Windows 10 Pro",
+        "ratings": "5 reviews    ",
+        "price_with_hdd": {
+            "hdd128": "$1143.4",
+            "hdd256": "$1163.4",
+            "hdd512": "$1183.4",
+            "hdd1024": "$1203.4"
+        }
+    },
+    {
+        "title": "Dell Inspiron 15 (7567) Black",
+        "price_homepage": "$1144.20",
+        "description": "Dell Inspiron 15 (7567) Black, 15.6\" FHD, Core i7-7700HQ, 8GB, 1TB, GeForce GTX 1050 Ti 4GB, Linux + Windows 10 Home",
+        "ratings": "2 reviews ",
+        "price_with_hdd": {
+            "hdd128": "$1144.2",
+            "hdd256": "$1164.2",
+            "hdd512": "$1184.2",
+            "hdd1024": "$1204.2"
+        }
+    },
+    {
+        "title": "Dell Latitude 5580",
+        "price_homepage": "$1144.40",
+        "description": "Dell Latitude 5580, 15.6\" FHD, Core i5-7300U, 8GB, 256GB SSD, Windows 10 Pro",
+        "ratings": "10 reviews   ",
+        "price_with_hdd": {
+            "hdd128": "$1144.4",
+            "hdd256": "$1164.4",
+            "hdd512": "$1184.4",
+            "hdd1024": "$1204.4"
+        }
+    },
+    {
+        "title": "Lenovo Legion Y520-15IKBM",
+        "price_homepage": "$1149.00",
+        "description": "Lenovo Legion Y520-15IKBM, 15.6\" FHD IPS, Core i7-7700HQ, 8GB, 128GB SSD + 1TB, GeForce GTX 1060 Max-Q 6GB, DOS",
+        "ratings": "11 reviews   ",
+        "price_with_hdd": {
+            "hdd128": "$1149",
+            "hdd256": "$1169",
+            "hdd512": "$1189",
+            "hdd1024": "$1209"
+        }
+    },
+    {
+        "title": "MSI GP62M 7RDX Leopard",
+        "price_homepage": "$1149.00",
+        "description": "MSI GP62M 7RDX Leopard, 15.6\" FHD, Core i7-7700HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1050 2GB, Windows 10 Home",
+        "ratings": "11 reviews ",
+        "price_with_hdd": {
+            "hdd128": "$1149",
+            "hdd256": "$1169",
+            "hdd512": "$1189",
+            "hdd1024": "$1209"
+        }
+    },
+    {
+        "title": "Lenovo Yoga 720 Grey",
+        "price_homepage": "$1149.73",
+        "description": "Lenovo Yoga 720 Grey, 15.6\" FHD IPS, Core i5-7300HQ, 8GB, 256GB SSD, GeForce GTX 1050 2GB, Windows 10 Home",
+        "ratings": "12 reviews  ",
+        "price_with_hdd": {
+            "hdd128": "$1149.73",
+            "hdd256": "$1169.73",
+            "hdd512": "$1189.73",
+            "hdd1024": "$1209.73"
+        }
+    },
+    {
+        "title": "Toshiba Portege Z30-C-16L Grey",
+        "price_homepage": "$1154.04",
+        "description": "Toshiba Portege Z30-C-16L Grey, 13.3\" FHD, Core i7-6500U, 8GB, 256GB SSD, Windows 10 Pro",
+        "ratings": "7 reviews ",
+        "price_with_hdd": {
+            "hdd128": "$1154.04",
+            "hdd256": "$1174.04",
+            "hdd512": "$1194.04",
+            "hdd1024": "$1214.04"
+        }
+    },
+    {
+        "title": "Acer TravelMate P645-S-511A Black",
+        "price_homepage": "$1170.10",
+        "description": "Acer TravelMate P645-S-511A Black, 14\" FHD IPS, Core i5-5200U, 8GB, 256GB SSD, 3G, Windows 10 Pro",
+        "ratings": "0 reviews ",
+        "price_with_hdd": {
+            "hdd128": "$1170.1",
+            "hdd256": "$1190.1",
+            "hdd512": "$1210.1",
+            "hdd1024": "$1230.1"
+        }
+    },
+    {
+        "title": "Dell Latitude 5580",
+        "price_homepage": "$1178.19",
+        "description": "Dell Latitude 5580, 15.6\" FHD, Core i5-7300U, 16GB, 256GB SSD, Linux + Windows 10 Home",
+        "ratings": "6 reviews   ",
+        "price_with_hdd": {
+            "hdd128": "$1178.19",
+            "hdd256": "$1198.19",
+            "hdd512": "$1218.19",
+            "hdd1024": "$1238.19"
+        }
+    },
+    {
+        "title": "ThinkPad T540p",
+        "price_homepage": "$1178.99",
+        "description": "15.6\", Core i5-4200M, 4GB, 500GB, Win7 Pro 64bit",
+        "ratings": "2 reviews ",
+        "price_with_hdd": {
+            "hdd128": "$1178.99",
+            "hdd256": "$1198.99",
+            "hdd512": "$1218.99",
+            "hdd1024": "$1238.99"
+        }
+    },
+    {
+        "title": "MSI GS63 7RD Stealth",
+        "price_homepage": "$1179.00",
+        "description": "MSI GS63 7RD Stealth, 15.6\" FHD IPS, Core i7-7700HQ, 8GB, 256GB SSD, GeForce GTX 1050 2GB, DOS + Windows 10 Home",
+        "ratings": "2 reviews ",
+        "price_with_hdd": {
+            "hdd128": "$1179",
+            "hdd256": "$1199",
+            "hdd512": "$1219",
+            "hdd1024": "$1239"
+        }
+    },
+    {
+        "title": "Dell Latitude 5480",
+        "price_homepage": "$1187.88",
+        "description": "Dell Latitude 5480, 14\" FHD, Core i5-7300U, 8GB, 256GB SSD, Windows 10 Pro",
+        "ratings": "5 reviews   ",
+        "price_with_hdd": {
+            "hdd128": "$1187.88",
+            "hdd256": "$1207.88",
+            "hdd512": "$1227.88",
+            "hdd1024": "$1247.88"
+        }
+    },
+    {
+        "title": "Acer Predator Helios 300 (PH317-51)",
+        "price_homepage": "$1187.98",
+        "description": "Acer Predator Helios 300 (PH317-51), 17.3\" FHD IPS, Core i7-7700HQ. 8GB, 128GB SSD +1TB, GeForce GTX 1050Ti 4GB, Linux + Windows 10 Home",
+        "ratings": "14 reviews   ",
+        "price_with_hdd": {
+            "hdd128": "$1187.98",
+            "hdd256": "$1207.98",
+            "hdd512": "$1227.98",
+            "hdd1024": "$1247.98"
+        }
+    },
+    {
+        "title": "MSI GL62M 7REX",
+        "price_homepage": "$1199.00",
+        "description": "MSI GL62M 7REX, 15.6\" FHD, Core i7-7700HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1050 Ti 2GB, Windows 10 Home",
+        "ratings": "7 reviews ",
+        "price_with_hdd": {
+            "hdd128": "$1199",
+            "hdd256": "$1219",
+            "hdd512": "$1239",
+            "hdd1024": "$1259"
+        }
+    },
+    {
+        "title": "MSI GL62M 7REX2",
+        "price_homepage": "$1199.00",
+        "description": "MSI GL62M 7REX2, 15.6\" FHD, Core i7-7700HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1050 Ti 2GB, Windows 10 Home",
+        "ratings": "12 reviews  ",
+        "price_with_hdd": {
+            "hdd128": "$1199",
+            "hdd256": "$1219",
+            "hdd512": "$1239",
+            "hdd1024": "$1259"
+        }
+    },
+    {
+        "title": "Lenovo Yoga 910 Grey",
+        "price_homepage": "$1199.73",
+        "description": "Lenovo Yoga 910 Grey, 13.9\" FHD Touch, Core i5-7200U, 8GB, 256GB SSD, Windows 10 Home",
+        "ratings": "7 reviews   ",
+        "price_with_hdd": {
+            "hdd128": "$1199.73",
+            "hdd256": "$1219.73",
+            "hdd512": "$1239.73",
+            "hdd1024": "$1259.73"
+        }
+    },
+    {
+        "title": "Toshiba Portege X30-D-10J Black/Blue",
+        "price_homepage": "$1203.41",
+        "description": "Toshiba Portege X30-D-10J Black/Blue, 13.3\" FHD IPS, Core i5-7200U, 8GB, 256GB SSD, Windows 10 Pro",
+        "ratings": "13 reviews    ",
+        "price_with_hdd": {
+            "hdd128": "$1203.41",
+            "hdd256": "$1223.41",
+            "hdd512": "$1243.41",
+            "hdd1024": "$1263.41"
+        }
+    },
+    {
+        "title": "Lenovo IdeaPad Miix 510 Platinum Silver",
+        "price_homepage": "$1212.16",
+        "description": "Lenovo IdeaPad Miix 510 Platinum Silver, 12.2\" IPS Touch, Core i5-7200U, 8GB, 256GB SSD, 4G, Windows 10 Pro",
+        "ratings": "0 reviews    ",
+        "price_with_hdd": {
+            "hdd128": "$1212.16",
+            "hdd256": "$1232.16",
+            "hdd512": "$1252.16",
+            "hdd1024": "$1272.16"
+        }
+    },
+    {
+        "title": "Acer Predator Helios 300 (PH317-51)",
+        "price_homepage": "$1221.58",
+        "description": "Acer Predator Helios 300 (PH317-51), 17.3\" FHD IPS, Core i7-7700HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1050 Ti 4GB, Windows 10 Home",
+        "ratings": "9 reviews ",
+        "price_with_hdd": {
+            "hdd128": "$1221.58",
+            "hdd256": "$1241.58",
+            "hdd512": "$1261.58",
+            "hdd1024": "$1281.58"
+        }
+    },
+    {
+        "title": "ThinkPad Yoga",
+        "price_homepage": "$1223.99",
+        "description": "12.5\" Touch, Core i5 4200U, 8GB, 500GB + 16GB SSD Cache, Windows",
+        "ratings": "2 reviews   ",
+        "price_with_hdd": {
+            "hdd128": "$1223.99",
+            "hdd256": "$1243.99",
+            "hdd512": "$1263.99",
+            "hdd1024": "$1283.99"
+        }
+    },
+    {
+        "title": "Asus VivoBook Pro 15 N580VN-FI006T Gold Metal",
+        "price_homepage": "$1235.49",
+        "description": "Asus VivoBook Pro 15 N580VN-FI006T Gold Metal, 15.6\" UHD, Core i7-7700HQ, 16GB, 1TB + 256GB SSD, GeForce MX150 2GB, Windows 10 Home, Eng kbd",
+        "ratings": "10 reviews  ",
+        "price_with_hdd": {
+            "hdd128": "$1235.49",
+            "hdd256": "$1255.49",
+            "hdd512": "$1275.49",
+            "hdd1024": "$1295.49"
+        }
+    },
+    {
+        "title": "Dell Latitude 5480",
+        "price_homepage": "$1238.37",
+        "description": "Dell Latitude 5480, 14\" FHD, Core i7-7600U, 8GB, 256GB SSD, Linux",
+        "ratings": "0 reviews  ",
+        "price_with_hdd": {
+            "hdd128": "$1238.37",
+            "hdd256": "$1258.37",
+            "hdd512": "$1278.37",
+            "hdd1024": "$1298.37"
+        }
+    },
+    {
+        "title": "Asus ZenBook UX530UX-FY040T Blue",
+        "price_homepage": "$1239.20",
+        "description": "Asus ZenBook UX530UX-FY040T Blue, 15.6\" FHD, Core i7-7500U, 8GB, 512GB SSD, GeForce GTX950M 2GB, Windows 10 Home, Eng kbd",
+        "ratings": "14 reviews ",
+        "price_with_hdd": {
+            "hdd128": "$1239.2",
+            "hdd256": "$1259.2",
+            "hdd512": "$1279.2",
+            "hdd1024": "$1299.2"
+        }
+    },
+    {
+        "title": "ThinkPad X230",
+        "price_homepage": "$1244.99",
+        "description": "12.5\", Core i5 2.6GHz, 8GB, 180GB SSD, Win7 Pro 64bit",
+        "ratings": "10 reviews   ",
+        "price_with_hdd": {
+            "hdd128": "$1244.99",
+            "hdd256": "$1264.99",
+            "hdd512": "$1284.99",
+            "hdd1024": "$1304.99"
+        }
+    },
+    {
+        "title": "Asus ROG Strix GL753VE-GC096T",
+        "price_homepage": "$1259.00",
+        "description": "Asus ROG Strix GL753VE-GC096T, 17.3\" FHD, Core i7-7700HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1050 Ti 4GB, Windows 10 Home, Eng kbd",
+        "ratings": "7 reviews    ",
+        "price_with_hdd": {
+            "hdd128": "$1259",
+            "hdd256": "$1279",
+            "hdd512": "$1299",
+            "hdd1024": "$1319"
+        }
+    },
+    {
+        "title": "Apple MacBook Air 13\"",
+        "price_homepage": "$1260.13",
+        "description": "Apple MacBook Air 13\", i5 1.8GHz, 8GB, 256GB SSD, Intel HD 6000, ENG",
+        "ratings": "8 reviews    ",
+        "price_with_hdd": {
+            "hdd128": "$1260.13",
+            "hdd256": "$1280.13",
+            "hdd512": "$1300.13",
+            "hdd1024": "$1320.13"
+        }
+    },
+    {
+        "title": "Dell Latitude 5480",
+        "price_homepage": "$1271.06",
+        "description": "Dell Latitude 5480, 14\" FHD, Core i7-7600U, 8GB, 1TB, GeForce GT930MX, Windows 10 Pro",
+        "ratings": "13 reviews ",
+        "price_with_hdd": {
+            "hdd128": "$1271.06",
+            "hdd256": "$1291.06",
+            "hdd512": "$1311.06",
+            "hdd1024": "$1331.06"
+        }
+    },
+    {
+        "title": "Hewlett Packard Spectre 13-v106na Dark Ash Silver",
+        "price_homepage": "$1273.11",
+        "description": "Hewlett Packard Spectre 13-v106na Dark Ash Silver, 13.3\" FHD IPS, Core i5-7200U, 8GB, 256GB SSD, Windows 10 Home",
+        "ratings": "8 reviews   ",
+        "price_with_hdd": {
+            "hdd128": "$1273.11",
+            "hdd256": "$1293.11",
+            "hdd512": "$1313.11",
+            "hdd1024": "$1333.11"
+        }
+    },
+    {
+        "title": "Dell XPS 13",
+        "price_homepage": "$1281.99",
+        "description": "13.3\" Touch, Core i5-4210U, 8GB, 128GB SSD, Windows 8.1",
+        "ratings": "4 reviews   ",
+        "price_with_hdd": {
+            "hdd128": "$1281.99",
+            "hdd256": "$1301.99",
+            "hdd512": "$1321.99",
+            "hdd1024": "$1341.99"
+        }
+    },
+    {
+        "title": "Toshiba Portege Z30-C-16K Grey",
+        "price_homepage": "$1294.74",
+        "description": "Toshiba Portege Z30-C-16K Grey, 13.3\" FHD, Core i5-6200U, 8GB, 256GB SSD, 4G, Windows 10 Pro",
+        "ratings": "6 reviews ",
+        "price_with_hdd": {
+            "hdd128": "$1294.74",
+            "hdd256": "$1314.74",
+            "hdd512": "$1334.74",
+            "hdd1024": "$1354.74"
+        }
+    },
+    {
+        "title": "MSI GL62VR 7RFX",
+        "price_homepage": "$1299.00",
+        "description": "MSI GL62VR 7RFX, 15.6\" FHD, Core i7-7700HQ, 8GB, 1TB + 256GB SSD, GeForce GTX 1060 3GB, Windows 10 Home",
+        "ratings": "1 reviews   ",
+        "price_with_hdd": {
+            "hdd128": "$1299.00",
+            "hdd256": "$1299.00",
+            "hdd512": "$1299.00",
+            "hdd1024": "$1299.00"
+        }
+    },
+    {
+        "title": "Dell Latitude 5480",
+        "price_homepage": "$1310.39",
+        "description": "Dell Latitude 5480, 14\" FHD, Core i7-7600U, 8GB, 256GB SSD, Windows 10 Pro",
+        "ratings": "8 reviews   ",
+        "price_with_hdd": {
+            "hdd128": "$1310.39",
+            "hdd256": "$1330.39",
+            "hdd512": "$1350.39",
+            "hdd1024": "$1370.39"
+        }
+    },
+    {
+        "title": "ThinkPad X240",
+        "price_homepage": "$1311.99",
+        "description": "12.5\", Core i5-4300U, 8GB, 240GB SSD, Win7 Pro 64bit",
+        "ratings": "12 reviews   ",
+        "price_with_hdd": {
+            "hdd128": "$1311.99",
+            "hdd256": "$1331.99",
+            "hdd512": "$1351.99",
+            "hdd1024": "$1371.99"
+        }
+    },
+    {
+        "title": "Hewlett Packard ProBook 640 G3",
+        "price_homepage": "$1326.83",
+        "description": "Hewlett Packard ProBook 640 G3, 14\" FHD, Core i7-7600U, 8GB, 256GB SSD, Windows 10 Pro",
+        "ratings": "2 reviews ",
+        "price_with_hdd": {
+            "hdd128": "$1326.83",
+            "hdd256": "$1346.83",
+            "hdd512": "$1366.83",
+            "hdd1024": "$1386.83"
+        }
+    },
+    {
+        "title": "Apple MacBook Pro 13\" Space Gray",
+        "price_homepage": "$1333.00",
+        "description": "Apple MacBook Pro 13\" Space Gray, Core i5 2.3GHz, 8GB, 128GB SSD, Iris Plus 640, ENG",
+        "ratings": "0 reviews ",
+        "price_with_hdd": {
+            "hdd128": "$1333",
+            "hdd256": "$1353",
+            "hdd512": "$1373",
+            "hdd1024": "$1393"
+        }
+    },
+    {
+        "title": "Dell Latitude 5580",
+        "price_homepage": "$1337.28",
+        "description": "Dell Latitude 5580, 15.6\" FHD, Core i7-7600U, 8GB, 256GB SSD, GeForce GT930MX, Windows 10 Pro",
+        "ratings": "6 reviews ",
+        "price_with_hdd": {
+            "hdd128": "$1337.28",
+            "hdd256": "$1357.28",
+            "hdd512": "$1377.28",
+            "hdd1024": "$1397.28"
+        }
+    },
+    {
+        "title": "Dell Latitude 5480",
+        "price_homepage": "$1338.37",
+        "description": "Dell Latitude 5480, 14\" FHD, Core i7-7600U, 8GB, 256GB SSD, Linux + Windows 10 Home",
+        "ratings": "11 reviews  ",
+        "price_with_hdd": {
+            "hdd128": "$1338.37",
+            "hdd256": "$1338.37",
+            "hdd512": "$1338.37",
+            "hdd1024": "$1338.37"
+        }
+    },
+    {
+        "title": "Dell Latitude 5580",
+        "price_homepage": "$1341.22",
+        "description": "Dell Latitude 5580, 15.6\" FHD, Core i7-7600U, 16GB, 256GB SSD, GeForce GT930MX, Linux",
+        "ratings": "3 reviews   ",
+        "price_with_hdd": {
+            "hdd128": "$1341.22",
+            "hdd256": "$1361.22",
+            "hdd512": "$1381.22",
+            "hdd1024": "$1401.22"
+        }
+    },
+    {
+        "title": "Apple MacBook Air 13\"",
+        "price_homepage": "$1347.78",
+        "description": "Apple MacBook Air 13\", Intel Core i5 1.8GHz, 8GB, 256GB SSD, Intel HD 6000, RUS",
+        "ratings": "11 reviews  ",
+        "price_with_hdd": {
+            "hdd128": "$1347.78",
+            "hdd256": "$1367.78",
+            "hdd512": "$1387.78",
+            "hdd1024": "$1407.78"
+        }
+    },
+    {
+        "title": "Lenovo ThinkPad T470",
+        "price_homepage": "$1349.23",
+        "description": "Lenovo ThinkPad T470, 14\" FHD IPS, Core i5-7200U, 8GB, 256GB SSD, Windows 10 Pro",
+        "ratings": "5 reviews ",
+        "price_with_hdd": {
+            "hdd128": "$1349.23",
+            "hdd256": "$1369.23",
+            "hdd512": "$1389.23",
+            "hdd1024": "$1409.23"
+        }
+    },
+    {
+        "title": "Lenovo ThinkPad Yoga 370 Black",
+        "price_homepage": "$1362.24",
+        "description": "Lenovo ThinkPad Yoga 370 Black, 13.3\" FHD IPS Touch, Core i5-7200U, 8GB, 256GB SSD, 4G, Windows 10 Pro",
+        "ratings": "12 reviews  ",
+        "price_with_hdd": {
+            "hdd128": "$1362.24",
+            "hdd256": "$1382.24",
+            "hdd512": "$1402.24",
+            "hdd1024": "$1422.24"
+        }
+    },
+    {
+        "title": "Toshiba Portege X20W-D-10V Black/Blue",
+        "price_homepage": "$1366.32",
+        "description": "Toshiba Portege X20W-D-10V Black/Blue, 12.5\" FHD Touch, Core i7-7500U, 8GB, 512GB SSD, Windows 10 Pro",
+        "ratings": "11 reviews ",
+        "price_with_hdd": {
+            "hdd128": "$1366.32",
+            "hdd256": "$1386.32",
+            "hdd512": "$1406.32",
+            "hdd1024": "$1426.32"
+        }
+    },
+    {
+        "title": "Asus ASUSPRO B9440UA-GV0279R Gray",
+        "price_homepage": "$1381.13",
+        "description": "Asus ASUSPRO B9440UA-GV0279R Gray, 14\" FHD, Core i7-7500U, 16GB, 512GB SSD, Windows 10 Pro, Eng kbd",
+        "ratings": "4 reviews ",
+        "price_with_hdd": {
+            "hdd128": "$1381.13",
+            "hdd256": "$1401.13",
+            "hdd512": "$1421.13",
+            "hdd1024": "$1441.13"
+        }
+    },
+    {
+        "title": "Lenovo Legion Y720",
+        "price_homepage": "$1399.00",
+        "description": "Lenovo Legion Y720, 15.6\" FHD IPS, Core i7-7700HQ, 8GB, 128GB SSD + 2TB HDD, GeForce GTX 1060 6GB, DOS, RGB backlit keyboard",
+        "ratings": "8 reviews   ",
+        "price_with_hdd": {
+            "hdd128": "$1399",
+            "hdd256": "$1419",
+            "hdd512": "$1439",
+            "hdd1024": "$1459"
+        }
+    },
+    {
+        "title": "Asus ROG Strix GL702VM-GC146T",
+        "price_homepage": "$1399.00",
+        "description": "Asus ROG Strix GL702VM-GC146T, 17.3\" FHD, Core i7-7700HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1060 3GB, Windows 10 Home, Eng kbd",
+        "ratings": "10 reviews   ",
+        "price_with_hdd": {
+            "hdd128": "$1399",
+            "hdd256": "$1419",
+            "hdd512": "$1439",
+            "hdd1024": "$1459"
+        }
+    },
+    {
+        "title": "Asus ROG Strix GL702ZC-GC154T",
+        "price_homepage": "$1769.00",
+        "description": "Asus ROG Strix GL702ZC-GC154T, 17.3\" FHD, Ryzen 7 1700, 16GB, 256GB + 1TB HDD, Radeon RX 580 4GB, Windows 10 Home",
+        "ratings": "7 reviews    ",
+        "price_with_hdd": {
+            "hdd128": "$1769",
+            "hdd256": "$1789",
+            "hdd512": "$1809",
+            "hdd1024": "$1829"
+        }
+    },
+    {
+        "title": "Asus ROG Strix GL702ZC-GC209T",
+        "price_homepage": "$1769.00",
+        "description": "Asus ROG Strix GL702ZC-GC209T, 17.3\" FHD IPS, Ryzen 7 1700, 16GB, 256GB SSD + 1TB HDD, Radeon RX 580 4GB, Windows 10 Home",
+        "ratings": "8 reviews ",
+        "price_with_hdd": {
+            "hdd128": "$1769",
+            "hdd256": "$1789",
+            "hdd512": "$1809",
+            "hdd1024": "$1829"
+        }
+    },
+    {
+        "title": "Asus ROG Strix SCAR Edition GL503VM-ED115T",
+        "price_homepage": "$1799.00",
+        "description": "Asus ROG Strix SCAR Edition GL503VM-ED115T, 15.6\" FHD 120Hz, Core i7-7700HQ, 16GB, 256GB SSD + 1TB SSHD, GeForce GTX 1060 6GB, Windows 10 Home",
+        "ratings": "8 reviews   ",
+        "price_with_hdd": {
+            "hdd128": "$1799",
+            "hdd256": "$1819",
+            "hdd512": "$1839",
+            "hdd1024": "$1859"
+        }
+    }
+]
